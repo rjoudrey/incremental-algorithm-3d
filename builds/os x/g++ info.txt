@@ -1,0 +1,2 @@
+To get g++:
+http://www.edparrish.net/common/macgpp.php

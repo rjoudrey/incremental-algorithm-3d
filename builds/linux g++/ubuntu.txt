@@ -1,0 +1,1 @@
+sudo optirun ./CG_IncrementalAlgorithm
